@@ -32,3 +32,11 @@ h3 {
   background-repeat: no-repeat;
   color: white;
 }
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
+.copy {
+  color: white;
+  font-size: 11px;
+}
